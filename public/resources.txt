@@ -1,0 +1,20 @@
+https://github.com/spatie/browsershot/blob/master/bin/browser.js
+
+https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#pageevalselector-pagefunction-args
+
+https://github.com/spatie/browsershot/tree/master
+
+http://image.intervention.io/use/filters
+
+new way:
+https://gist.github.com/malyw/b4e8284e42fdaeceab9a67a9b0263743
+
+pre crawler to count elements:
+https://github.com/wasinger/htmlpagedom
+https://vegibit.com/php-simple-html-dom-parser-vs-friendsofphp-goutte/
+
+http://jonnnnyw.github.io/php-phantomjs/4.0/4-custom-scripts/
+
+https://github.com/thedevdojo/website-screenshot-with-laravel
+
+https://github.com/jae-jae/QueryList
